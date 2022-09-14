@@ -1,0 +1,16 @@
+
+
+.box{
+    width: 409px;
+    height: 400px;
+    position: relative;
+    background-color: darkslategray;
+}
+
+.block{
+    width: 40px;
+    height: 40px;
+    background-color: silver;
+    position: absolute;
+}
+
